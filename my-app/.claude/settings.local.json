@@ -8,7 +8,9 @@
       "Bash(npx tsc:*)",
       "Bash(cmd /c \"dir /s /b \"\"C:\\\\Users\\\\user\\\\Desktop\\\\proect tweb\\\\my-app\\\\src\"\" | findstr LoadList\")",
       "Bash(cmd /c \"dir /s /b \"\"C:\\\\Users\\\\user\\\\Desktop\\\\proect tweb\\\\my-app\\\\src\\\\components\"\"\")",
-      "Bash(powershell -Command \"Get-ChildItem -Path ''C:\\\\Users\\\\user\\\\Desktop\\\\proect tweb\\\\my-app\\\\src\\\\components'' -Recurse -Filter ''*.tsx'' | Select-Object FullName\")"
+      "Bash(powershell -Command \"Get-ChildItem -Path ''C:\\\\Users\\\\user\\\\Desktop\\\\proect tweb\\\\my-app\\\\src\\\\components'' -Recurse -Filter ''*.tsx'' | Select-Object FullName\")",
+      "Bash(npm start:*)",
+      "Bash(npm run:*)"
     ]
   }
 }
