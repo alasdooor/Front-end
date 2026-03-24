@@ -10,7 +10,18 @@
       "Bash(cmd /c \"dir /s /b \"\"C:\\\\Users\\\\user\\\\Desktop\\\\proect tweb\\\\my-app\\\\src\\\\components\"\"\")",
       "Bash(powershell -Command \"Get-ChildItem -Path ''C:\\\\Users\\\\user\\\\Desktop\\\\proect tweb\\\\my-app\\\\src\\\\components'' -Recurse -Filter ''*.tsx'' | Select-Object FullName\")",
       "Bash(npm start:*)",
-      "Bash(npm run:*)"
+      "Bash(npm run:*)",
+      "Bash(curl -L -o load1.jpg \"https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=700&q=80\" -o load2.jpg \"https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=700&q=80\" -o load3.jpg \"https://images.unsplash.com/photo-1519003722824-194d4455a60c?w=700&q=80\" -o load4.jpg \"https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=700&q=80\" -o load5.jpg \"https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=700&q=80\" -o load6.jpg \"https://images.unsplash.com/photo-1590496793929-36417d3117de?w=700&q=80\" -o load7.jpg \"https://images.unsplash.com/photo-1501700493788-fa1a4fc9fe62?w=700&q=80\" -o load8.jpg \"https://images.unsplash.com/photo-1474487548417-781cb71495f3?w=700&q=80\" -o hero-bg.jpg \"https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?w=1800&q=90\" --silent --show-error)",
+      "Bash(find /c/Users/Acer/AppData/Local/Temp -name *.jpg -o -name *.png -o -name *.jpeg)",
+      "Bash(find /c/Users/Acer -name *.jpg -o -name *.png -o -name *.jpeg -o -name *.webp)",
+      "Bash(find /c/Users/Acer/Desktop /c/Users/Acer/Downloads /c/Users/Acer/Pictures /c/Users/Acer/Documents -name *.jpg -o -name *.png -o -name *.jpeg -o -name *.webp)",
+      "Bash(find /c/Users/Acer/AppData -name *.png -o -name *.jpg)",
+      "Bash(ls -lt /c/Users/Acer/.claude/projects/d--proect-tweb-Front-end-my-app/ grep -c image /c/Users/Acer/.claude/projects/d--proect-tweb-Front-end-my-app/*.jsonl)",
+      "Bash(python3 -c \":*)",
+      "Bash(python -c \":*)",
+      "Bash(where python:*)",
+      "Bash(where python3:*)",
+      "Bash(where node:*)"
     ]
   }
 }
