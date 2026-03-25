@@ -21,7 +21,12 @@
       "Bash(python -c \":*)",
       "Bash(where python:*)",
       "Bash(where python3:*)",
-      "Bash(where node:*)"
+      "Bash(where node:*)",
+      "WebSearch",
+      "WebFetch(domain:unsplash.com)",
+      "WebFetch(domain:www.pexels.com)",
+      "WebFetch(domain:www.freeimages.com)",
+      "WebFetch(domain:pixabay.com)"
     ]
   }
 }
