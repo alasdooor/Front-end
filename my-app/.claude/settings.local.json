@@ -26,7 +26,8 @@
       "WebFetch(domain:unsplash.com)",
       "WebFetch(domain:www.pexels.com)",
       "WebFetch(domain:www.freeimages.com)",
-      "WebFetch(domain:pixabay.com)"
+      "WebFetch(domain:pixabay.com)",
+      "Bash(find 'c:\\\\Users\\\\user\\\\Desktop\\\\proect tweb\\\\my-app\\\\public' -name *.mp4 -o -name *.webm -o -name *.mov)"
     ]
   }
 }
